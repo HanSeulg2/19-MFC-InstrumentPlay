@@ -1,0 +1,5 @@
+﻿  AreaCDLL.cpp
+c:\visual studio 프로젝트\팀 프로젝트_2학년\mfc\우승슬\areacdll\areacdll\areacdll.cpp(64): warning C4273: 'Areacheck': dll 링크가 일치하지 않습니다.
+  c:\visual studio 프로젝트\팀 프로젝트_2학년\mfc\우승슬\areacdll\areacdll\areacdll.h(28): note: 'Areacheck'의 이전 정의를 참조하십시오.
+c:\visual studio 프로젝트\팀 프로젝트_2학년\mfc\우승슬\areacdll\areacdll\areacdll.cpp(173): warning C4715: 'Areacheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  AreaCDLL.vcxproj -> C:\Visual Studio 프로젝트\팀 프로젝트_2학년\MFC\우승슬\AreaCDLL\Debug\AreaCDLL.dll
