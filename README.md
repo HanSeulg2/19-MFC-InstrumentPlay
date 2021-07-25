@@ -17,5 +17,13 @@
    - 작성한 악보 삭제
    
    ![image03](https://user-images.githubusercontent.com/71927210/126893567-adf322cc-9db1-480f-9f2b-bf55a2510cca.png)
-   
+  
    - 작성된 악보 공유하기 (네트워크)
+   
+    ![image05](https://user-images.githubusercontent.com/71927210/126894709-5755aa61-3d60-48ce-bbb9-9eacacf76cb8.png)
+    ![image06](https://user-images.githubusercontent.com/71927210/126894711-33f56e68-000a-4141-af69-9fc3501d650d.png)
+    ![image04](https://user-images.githubusercontent.com/71927210/126894712-1a01b71a-43c2-4ef2-a44b-153d27717419.png)
+
+
+   
+
